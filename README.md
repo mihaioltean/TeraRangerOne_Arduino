@@ -10,7 +10,11 @@ Docs: https://www.generationrobots.com/media/TR_One_Manual_FW5.0.Version1_0_0.pd
 Pins must be connected as follows:
 
 TeraRanger One pin 15 - battery ground
+
 TeraRanger One pin 14 - battery VCC (11.1V)
+
 TeraRanger One pin 11 - Arduino Nano A4 (SDA )
+
 TeraRanger One pin 10 - Arduino Nano A5 (SCL)
+
 TeraRanger One pin 1 - Arduino GND
