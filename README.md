@@ -5,7 +5,7 @@ An example on how to read terabee TeraRangerOne sensor with Arduino using I2C pr
 
 I have used Arduino Nano as test.
 
-Docs: https://www.generationrobots.com/media/TR_One_Manual_FW5.0.Version1_0_0.pdf
+Docs: https://www.terabee.com/wp-content/uploads/2017/09/TR_One_Manual_FW5.0.Version1_0_0.pdf
 
 Pins must be connected as follows:
 
