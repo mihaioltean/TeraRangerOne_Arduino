@@ -18,3 +18,5 @@ TeraRanger One pin 11 - Arduino Nano A4 (SDA )
 TeraRanger One pin 10 - Arduino Nano A5 (SCL)
 
 TeraRanger One pin 1 - Arduino GND
+
+**Note**: If you need a library for reading the sensor directly from USB (no Arduino involved) you can try [https://github.com/mihaioltean/tera-ranger-one-lib](https://github.com/mihaioltean/tera-ranger-one-lib).
